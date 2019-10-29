@@ -1,6 +1,6 @@
 # Print-Star-HourGlass-Java
 Print stars of odd numbers in hour glass shape.
-If the number input is even number (2, 4, 6...), roud up to nearest odd number.
+If the number input is even number (2, 4, 6...), round up to nearest odd number.
 
 Example of output:
 
